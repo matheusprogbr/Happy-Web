@@ -1,44 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F07342a3e-c8bb-4ef0-81e5-eb54027d50fe%2Fhappy.png?table=block&id=faac4d4d-6383-43fe-8bab-627125a7557c&width=250&userId=702f516b-d4e3-4569-8899-2a340c69810e&cache=v2">
+  <br>
+  Next Level Week#3 - <b>Happy</b>
+</h1>
 
-## Available Scripts
+<h4 align="center">
+  An App to help and motivate people to go and visit orphanages nearby. Built with ReactJS, React Native, NodeJs and TypeScript.
+</h4>
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+![Happy Web](https://ik.imagekit.io/bol1o5d1sh/Captura_de_Tela__rea_de_Sele__o_20201012192753_0BlwhXFrn.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :computer: About
 
-### `yarn test`
+This App was made during the Next Level Week #3 organized by RocketSeat.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The purpose of this project is to help people find orphanages near their homes and visit them.
 
-### `yarn build`
+It was my first time building a completely fullstack and mobile App with TypeScript.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Click here to see the **Backend**: <br>
+Click here to see the **Web App**: <br>
+Click here to see the **Mobile App**: <br>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: Technologies
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+:running: **It is still in development.**
