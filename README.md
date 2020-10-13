@@ -13,7 +13,7 @@
 ## Demo 📸
 
 <div align="center" >
-  <img src="https://ik.imagekit.io/bol1o5d1sh/happy-v1_ytDk9YOhP.gif" alt="demo-web" height="425">
+  <img src="./github/happy-v1.gif" alt="demo-web" height="425">
 </div>
 
 ---
